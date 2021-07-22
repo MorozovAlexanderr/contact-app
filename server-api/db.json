@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "246fd3fd-8b92-4acd-80b9-9b97176031f3",
+      "name": "James Johnson",
+      "email": "james@gmail.com"
+    },
+    {
+      "id": "5b03e168-2d07-4f08-bfb2-4eae80734113",
+      "name": "Jack Smith",
+      "email": "jack@gmail.com"
+    }
+  ]
+}
